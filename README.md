@@ -19,6 +19,30 @@ This is an **information assistant**, not a diagnostic tool. Every output includ
 
 ---
 
+## Screenshots
+
+### App Interface
+![MedAssist AI Header](image_1.png)
+*Patient details form — Name, Age, Gender, Symptom Duration*
+
+![Symptoms Selection](image_04.png)
+*132 symptoms with emoji labels and real-time search filter*
+
+### Assessment Results
+![Assessment Result](image_02.png)
+*AI-powered condition prediction with confidence bar and severity badge*
+
+![Full Assessment View](image_03.png)
+*Complete assessment with symptoms selected and result panel*
+
+### Emergency Detection
+![Emergency Alert](image_05.png)
+*Red alert triggered when high-risk symptoms are detected*
+
+### PDF Report
+![PDF Report](image_06.png)
+*Professional clinical-format report generated after every assessment*
+
 ## Features
 
 - **41-disease prediction** using Random Forest classifier trained on 132 symptom features (97.6% test accuracy)
